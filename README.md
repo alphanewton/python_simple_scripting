@@ -1,4 +1,4 @@
 # python
 Python Projects
 
-These are my python projects source code!
+These are beginner basic scripts to do various functions. Used simple in-built python functions and a bit of API.
